@@ -10,5 +10,5 @@ https://docs.bazel.build/versions/main/tutorial/cpp.html
 # run the example
 in code directory, run the command
 ```
-bazel run :train_image
+bazel run :train
 ```
